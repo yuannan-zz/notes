@@ -1,3 +1,5 @@
+<script type="text/javascript" src="http://cdn.mathjax.org/mathjax/latest/MathJax.js?config=default"></script>
+
 # 风险量
 
 ## Beta
@@ -6,6 +8,6 @@
 
 　　贝塔系数的计算公式
 
-公式为：\beta_a = \frac{\mbox{Cov}(r_a,r_m)}{\sigma_m^2}
-<img src="http://www.forkosh.com/mathtex.cgi? \beta_a = \frac{\mbox{Cov}(r_a,r_m)}{\sigma_m^2}"/>
+公式为：\\(\beta_a = \frac{\mbox{Cov}(r_a,r_m)}{\sigma_m^2}\\)
+
 其中Cov(ra,rm)是证券 a 的收益与市场收益的协方差；{\sigma_m^2}是市场收益的方差。
